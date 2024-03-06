@@ -14,3 +14,7 @@ Añade el siguiente Virtual Host para probar la API:
 Y añade esta línea en tus hosts: ``127.0.0.1 contactos.es``
 
 Para probar la autentificación cambiar en el ``bootstrap.php`` el valor de la variable ``KK`` a ``true``.
+
+Credenciales del usuario:
+- Usuario: Admin
+- Contraseña: admin
